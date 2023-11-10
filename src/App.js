@@ -8,7 +8,7 @@ function App() {
     <>
       <Navbar />
       <Routes>
-        <Route path='/' element={<Home />} />
+        <Route path='ecommo/' element={<Home />} />
       </Routes>
     </>
   );
