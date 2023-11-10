@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ecommo/static/css/main.823a03da.css",
+    "main.js": "/ecommo/static/js/main.9a44f6f5.js",
+    "static/js/787.dcc73137.chunk.js": "/ecommo/static/js/787.dcc73137.chunk.js",
+    "static/media/shoe.jpg": "/ecommo/static/media/shoe.0e3eead8ec16550a93a2.jpg",
+    "index.html": "/ecommo/index.html",
+    "main.823a03da.css.map": "/ecommo/static/css/main.823a03da.css.map",
+    "main.9a44f6f5.js.map": "/ecommo/static/js/main.9a44f6f5.js.map",
+    "787.dcc73137.chunk.js.map": "/ecommo/static/js/787.dcc73137.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.823a03da.css",
+    "static/js/main.9a44f6f5.js"
+  ]
+}
