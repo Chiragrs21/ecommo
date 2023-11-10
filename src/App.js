@@ -7,9 +7,7 @@ function App() {
   return (
     <>
       <Navbar />
-      <Routes>
-        <Route path='ecommo/' element={<Home />} />
-      </Routes>
+      <Home />
     </>
   );
 }
